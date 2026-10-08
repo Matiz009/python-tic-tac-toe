@@ -6,7 +6,7 @@ A two-player Tic-Tac-Toe game played in the terminal.
 
 - Players X and O take turns entering a board position (0–8)
 - Prints an ASCII board after each move
-- Detects a win or a draw
+- Detects a win (TODO: no draw detection yet)
 
 ## Tech stack
 
